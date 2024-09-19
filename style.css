@@ -1,0 +1,11 @@
+* {
+  background-color: black;
+  color: #4af626;
+  font-family: "Lucida Console", "Lucida Sans", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
